@@ -2,7 +2,7 @@
 .gazou {position: sticky;
     text-align: right;
     width:auto;
-    top: 0px;
+    bottom: 120px;
     left: 500px;
 
 }
@@ -11,7 +11,7 @@
 .day{
     font-size: 50px;
     position: relative;
-    top: 300px;
+    top: 250px;
 }
 
   
@@ -24,8 +24,10 @@
     background-color: rgb(37, 37, 114);
     width: 70%;
     height: 150px;
+    bottom: 500px;
     position: relative;
-    top: 300px;
+    top: 250px;
+
 }
 
 
@@ -44,7 +46,4 @@
     margin-right: auto;
     font-size: 150%;}
 
- 
-  
-  
  
